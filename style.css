@@ -141,33 +141,3 @@ h1{
 }
     
 }
-@media screen  and(max-width:1150){
-    body{
-        margin: 0px;
-    }
-    .header{
-        width: 100%;
-    }
-    .banner{
-        width: 100%;
-    }
-    .footer{
-        width:100%;
-    }
-    .section1{
-       display: block;
-
-       
-    }
-    .circle{
-        display: block;
-        width: 100px;
-        height: 100px;
-    }
-    
-   .square{
-    width: 100px;
-    height: 100px;
-    box-shadow: 2px 2px grey;
-   }
-}
